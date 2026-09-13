@@ -69,7 +69,7 @@ realtime-chat/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ismailastighfar/realtime-chat
 cd realtime-chat
 
 cd backend
